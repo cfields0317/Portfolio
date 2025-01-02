@@ -5,20 +5,20 @@
 - <b>Data Structures and Algorithms Practice</b>
   - [Bank Churn Project](https://github.com/cfields0317/bankchurnproject)
 - <b>Unsupervised Learning</b>
-  - [Bank Churn Project](https://github.com/cfields0317/unsupervisedlearningproject)
+  - [Unsupervised Learning Project](https://github.com/cfields0317/unsupervisedlearningproject)
 - <b>Support Ticket, LLM Project</b>
-  - [Bank Churn Project](https://github.com/cfields0317/supportticketproject)
+  - [Support Ticket Project](https://github.com/cfields0317/supportticketproject)
 - <b>Supervised Learning</b>
-  - [Bank Churn Project](https://github.com/cfields0317/supervisedlearningproject)
+  - [Supervised Learning Project](https://github.com/cfields0317/supervisedlearningproject)
 - <b>Renewind Project</b>
-  - [Bank Churn Project](https://github.com/cfields0317/renewindproject)
+  - [Renewind Project](https://github.com/cfields0317/renewindproject)
 - <b>Plant Seed ID / Computer Vision</b>
-  - [Bank Churn Project](https://github.com/cfields0317/seedidproject)
+  - [Plant Seed ID Project](https://github.com/cfields0317/seedidproject)
 - <b>Hotel project</b>
-  - [Bank Churn Project](https://github.com/cfields0317/hotelsproject)
+  - [Hotel Project](https://github.com/cfields0317/hotelsproject)
 - <b>Food Hub Project</b>
-  - [Bank Churn Project](https://github.com/cfields0317/foodhubproject)
+  - [Food Hub Project](https://github.com/cfields0317/foodhubproject)
 - <b>Visa Project</b>
-  - [Bank Churn Project](https://github.com/cfields0317/visaproject)
+  - [Visa Project](https://github.com/cfields0317/visaproject)
 - <b>Business Statistics Project</b>
-  - [Bank Churn Project](https://github.com/cfields0317/bussinessstatisticsproject)
+  - [Business Statistics Project](https://github.com/cfields0317/bussinessstatisticsproject)
